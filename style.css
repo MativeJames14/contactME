@@ -1,0 +1,25 @@
+body {
+    background: linear-gradient(to right, yellowgreen, slateblue);
+}
+a{
+    text-decoration: none;
+    background-color: hsl(0, 100%, 50%);
+}
+a:hover{
+    background-color: hsl(0, 100%, 60%);
+}
+a:active {
+    background-color: hsl(0, 100%, 70%);
+}
+h1{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: block;
+    margin: 0;
+}
+h3{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
